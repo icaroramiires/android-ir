@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/cadastro_remover_cliente"
+        android:orderInCategory="100"
+        android:title="Remover Cliente"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cadastro_remover_produto"
+        android:orderInCategory="100"
+        android:title="Remover Produto"
+        app:showAsAction="never" />
+</menu>
